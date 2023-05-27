@@ -1,0 +1,52 @@
+﻿Delphi7 Lite Tiny Edition 7.3.4.3 [2011-08-02] [All Updates Integrated][Optional D2007 RTL/VCL][Portable-Edition Integrated][Supports Windows7 Fully]
+
+Borland is a respectable company. When Borland has become a thing of the past, I would like to dedicate this product to Borland to commemorate the Borland that has passed away. In order to remember the legend of Borland (Delphi) Delphi7. This product For learning and communication purposes only, for the purpose of not making any profit, please do not use it for any illegal commercial use, otherwise you will be at your own risk.]
+Delphi7 Lite, simple but not simple, one installation, running everywhere. Contains 4 bombs: Tiny/Mini/Meduim/Full, function and volume from small to large, strive to achieve the perfect balance of function and volume. Has been optimized for performance and excellent Streamlined, including installation / green portable version of the two-in-one, integrated some of the commonly used high-efficiency IDE experts and plug-ins, is committed to making Delphi7 a modern (relatively) integrated development environment, using this product will make you In terms of development efficiency / experience / system compatibility, etc., the original version has been greatly improved.
+
+Key features:
+Once installed, run everywhere. The first time you need to install, you only need to register each time.
+All the available upgrade patches are now installed (to Delphi7 Update 1.1, IDE version number is Build 8.1), integrating most of the current Bug Fix Pack.
+Support all current versions of Windows: Windows 7, 2008 R2, Vista, XP, 2008, 2003, 2000, Me, 98, and NT 4.0, support non-administrator user installation, support UAC.
+In particular, full support for Windows7.
+Removed all redundant installation options but retained the original code options and removed non-essential files (ModelMaker, InterBase, MergeModules, Extra Docs, Images, MDAC, etc.).
+Using the post-installation dynamic compilation to generate RTL, VCL DCU files, greatly reducing the installation file size.
+Optional Replace Delphi7 RTL/VCL with Delphi2007 RTL/VCL, and let Delphi7 support the new Vista property of Delphi2007.
+Optional to restore Delphi7 RTL/VCL to use the official source code file, only for the possible compatibility of some third-party component compatibility (not recommended).
+The installer is designed to be re-installable. If you do not specify the installer when installing the new version, you do not need to delete the old version first, you can upgrade directly, all settings will be retained, the original Delphi installation control and Settings will be automatically imported into the new installation IDE environment.
+The installer has a built-in "green portable installation mode" that can be directly selected. After installing this mode, the destination folder becomes a mobile green version, which realizes a complete and truly "installation/green portable version in one". .
+The installation program comes with a separate green registration program (D7LiteReg.exe), which allows you to quickly restore the Delphi7 development environment (controls/experts/settings). Copy the entire Delphi directory directly, and then execute D7LiteReg.exe to complete Delphi registration. The same method can be applied to green registration of other Delphi7 versions, such as Delphi7 SECOND EDITION v7.2.
+The installer supports "Recompiling the installation using the existing source code (only valid when overwriting)" or "Compiling and installing using the external Delphi7-source source code". For more details, please see the instructions.
+The installer comes with an additional command line function. Supports repair of the installed program's menu/registry/miscellaneous, using the command line parameters /? or /help for more details.
+The installer supports additional command line parameters for additional functionality. Supports repair of the function table/registry/miscellaneous of the installed Delphi7 program. Common command line parameters have been directly integrated into the installer, right click or use in the window. Command line parameters /? or /help for more details.
+The installer automatically selects different mounting components based on the machine performance of the installation.
+The installer supports multi-language interface (including Chinese Simplified/Traditional/English).
+At the same time, it can be replaced only with windows related pas in Delphi2007 to support XP/Vista API and window attributes. It is different from completely replacing Delphi2007 RTL/VCL, which can maintain the compatibility of Delphi7 while supporting the new API and window attributes of vista. .
+The code editor color scheme is set to Delphi2006 style.
+Contains the programming-specific font Consolas (recommended font size is 10 and ClearType is enabled).
+The IDE and VCL default fonts were changed from the original MS Sans Serif to Tahoma, and the interface looks more beautiful.
+You can choose to modify the Delphi IDE itself to support the XP style, you can see the XP effect of the program running at design time, WYSIWYG.
+Integrated DelphiZLib 1.2.5 (ZLibEx.pas), you can choose to upgrade the built-in ZLib 1.04 to ZLib 1.2.5.
+Integrating VCL Fix Pack 1.4 requires manual reference to the unit VCLFixPack.pas in the project.
+Integrating Midas Speed ​​Fix 1.2 requires manual reference to the unit MidasSpeedFix.pas in the project.
+Integrate the following extended Win32Api units from www.delphi-jedi.org:
+SHELL LITE :: Microsoft Shell Lightweight Utility API, v.1.2/SNMP :: Microsoft headers for Simple Network Management Protocol definitions/WINSOCK 2 :: Winsock 2 API (Windows Sockets).
+
+Integrated MySQL Driver for DBExpress, support for MySQL 3.22/4.0/4.1/5.0 drivers.
+Integrate Newly Delphi Features Extented Components, ported from Delphi7 later versions of new controls, such as Vista Dialogs, so that Delphi7 can also develop Vista style dialog box programs.
+Contains the following experts or tools (varies by version):
+Delphi IDE plug-in DelphiSpeedUp 3.1. (IDE acceleration).
+Delphi IDE plug-in DDevExtensions 2.4. (Enhance the setting and compilation of the project in the IDE, you can add different versions of the project to the project such as release/debug version).
+Delphi expert GExperts 1.35 Experimental. (Super IDE expert).
+Delphi expert DelforExp 2.5. (code formatting tool).
+Delphi expert UnitExpert (improve the IDE unit operation efficiency tool).
+Delphi expert CnWizards 0.9.9.614. (Super IDE expert developed by Chinese, support the original code structure highlight connection display, can automatically backup and restore the installed control information, make your own green version of delphi good tool).
+Delphi tool DelphiDistiller 1.85. (Select the control and setting tools loaded when the IDE starts).
+Spy tools Microsoft Spy++ v7.1 and Spy4Win (Spy for Window) v0.20b.
+EXE/DLL dependency analysis tool Dependency Walker 2.2.
+DLL export function viewer DLL Export Viewer v1.42.
+BDE (Borland Database Engine 5.2), and related tools BDE Administrator, SQL Explorer, Database Desktop, SQL Monitor, Data Pump, etc.
+BDE sample repository (alias DBDEMOS).
+
+About making a green/portable version:
+
+Delphi7 Lite Full Edition 7.3.4.3 [All Updates Integrated] [Optional D2007 RTL/VCL] [Portable-Edition Integrated] [Supports Windows7 Fully] <<=>> Delphi7 Optimized and Streamlined Full-featured version 7.3.4.3 [Integrated all current patches And fix] [optional D2007 RTL/VCL] [installed version / green portable version in one] [full support for Windows7]
